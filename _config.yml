@@ -4,11 +4,11 @@
 title: "I'm Vyaasa"
 title-font-size: '4em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
-email: your-email@domain.com
+email: szdenny@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Vyaasa is a minimal Jekyll theme meant for writers. Long text posts will look good with this layout. This is a free theme and can be used for all kinds of Jekyll blogs.
-baseurl: "/vyaasa" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+  This is dennyLao's blogs.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://szdenny.github.io" # the base hostname & protocol for your site
 
 permalink: :title/
 
@@ -23,7 +23,7 @@ paginate_path: /page:num/
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: szdenny
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
