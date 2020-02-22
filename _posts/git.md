@@ -1,6 +1,10 @@
-# git clone时RPC failed; curl 18 transfer closed with outstanding read data remaining
-
-## git clone时报RPC failed; curl 18 transfer closed with outstanding read data remaining 错误
+---
+title: git clone时RPC failed; curl 18 transfer closed with outstanding read data remaining
+layout: post
+categories: git
+tags: git clone failed
+---
+# 
 
 原因1：缓存区溢出
 
